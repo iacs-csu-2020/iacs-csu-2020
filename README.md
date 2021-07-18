@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="img/img1.png">
+</p>
 
-<!--
-**iacs-csu-2020/iacs-csu-2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="img/img2.png">
+</p>
 
-Here are some ideas to get you started:
+### What this account is all about
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a group account for the 2020 Masters batch of the Indian Association for the Cultivation of Science (IACS) Computer Science Unit (CSU) to showcase their work as a group in several projects. This group comprises of three members - Avishek Lahiri (2020/SMCS/004), Sarthak Das (2018/UG/026) and Shubhajit Roy (2020/SMCS/003).
+
+### Meet the members
+
+1. **Avishek Lahiri** - Completed his Bachelors in Computer Science from Ramkrishna Mission Belur (Vidyamandira) in 2020. Presently pursuing his Integrated Masters-Ph.D Degree in Computer Science from IACS. Particularly interested in machine learning and natural language processing. You can visit his personal git account [here](https://github.com/AvishekLahiri).
+2. **Sarthak Das** - Presently pursuing his Integrated Bachelors-Masters Degree in Computer Science from IACS. Particularly interested in logic and theoretical computer science. You can visit his personal git account [here](https://github.com/dassarthak18).
+3. **Shubhajit Roy** - Completed his Bachelors in Mathematics from Presidency University Kolkata in 2020. Presently pursuing his Integrated Masters-Ph.D Degree in Computer Science from IACS. Particularly interested in graph theory and combinatorics. You can visit his personal git account [here](https://github.com/shubhajitroy123).
